@@ -1,7 +1,7 @@
 <template>
   <v-container>
     <div class="header">
-      <h1 class="text-left">Challenge</h1>
+      <h1 class="text-left">Challengee</h1>
       <v-card
     
       flat
