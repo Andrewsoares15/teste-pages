@@ -2,6 +2,7 @@
   <v-container>
     <div class="header">
       <h1 class="text-left">Challengee</h1>
+      <p>Vamo</p>
       <v-card
     
       flat
