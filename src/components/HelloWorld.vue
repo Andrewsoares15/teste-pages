@@ -143,7 +143,7 @@
           this.contas = json
           console.log(this.contas)
           this.mostraDados()
-          console.log('time')
+          console.log('a')
         }) 
       },
       mostraDados(){
