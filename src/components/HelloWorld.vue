@@ -153,6 +153,9 @@
   
 </script>
 <style scoped>
+div.v-toobar_content{
+  background: red;
+}
 .header{
   display: flex;
   justify-content: space-between;
